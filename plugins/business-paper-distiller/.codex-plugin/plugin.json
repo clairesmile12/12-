@@ -1,0 +1,23 @@
+{
+  "name": "business-paper-distiller",
+  "version": "3.0.0",
+  "description": "经营学顶刊论文分析与写作蒸馏：证据核查、思维模型、框架拆解与草稿修订。",
+  "author": {
+    "name": "clairesmile12"
+  },
+  "repository": "https://github.com/clairesmile12/12-",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "经营学顶刊论文蒸馏",
+    "shortDescription": "学习管理学优秀论文如何提出问题、论证和写作",
+    "longDescription": "以定量实证论文为核心，提供三层拆解、六项证据核查、期刊比较及基于真实材料的写作迁移。非定量论文限结构与写作初读。",
+    "developerName": "clairesmile12",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "分析这篇论文的问题、理论、证据与写作结构。",
+      "逐段拆解引言和假设推导，标明原文依据。",
+      "结合参考论文修改我的稿件，保留事实与证据强度。"
+    ]
+  }
+}

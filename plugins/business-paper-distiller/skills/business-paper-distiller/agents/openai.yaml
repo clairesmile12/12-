@@ -1,0 +1,4 @@
+interface:
+  display_name: "经营学顶刊分析与写作蒸馏"
+  short_description: "从论证、思维与写作动作精读经营学顶刊论文，核查证据并迁移到自己的研究与草稿"
+  default_prompt: "请用 $business-paper-distiller 精读这篇经营学论文，拆解三层结构、核对贡献与证据，并提炼适合我选题的写作动作；若有目标期刊，请区分官方要求与范文观察。"
